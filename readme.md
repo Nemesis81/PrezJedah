@@ -8,5 +8,6 @@ l'idée est de donnée une vue global de l'indice de position social des établi
 - data_cleaned : données nettoyées et filtrées comme suit :
     -  période de dispo des IPS (2016-2023)
     -  suppression des colonnes non utilisées
-    -  
+    -  split des "rentré scolaire" en "année de rentrée & "année de diplome"
+    - 
 
